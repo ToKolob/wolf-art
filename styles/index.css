@@ -240,6 +240,14 @@ h1, h2, h3, h4, h5, h6{
   justify-content: center;
   padding: 10%;
 }
+.video{
+  height: 75vh;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 10%;
+}
 .interspaces ul li{
   padding: 10px;
 }
